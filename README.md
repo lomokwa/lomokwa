@@ -1,4 +1,4 @@
-#Yo, I'm Lorenzo!
+# Yo, I'm Lorenzo!
 
 💻 Fullstack software engineer based in South Florida<br>🔭 Currently building stuff for Camlann Games<br>☕ Learning Java<br>🎮 Doing Judo, playing games, or building cars on the side
 
