@@ -2,6 +2,8 @@
 
 💻 Fullstack software engineer based in South Florida<br>🔭 Currently building stuff for Camlann Games<br>☕ Learning Java<br>🎮 Doing Judo, playing games, or building cars on the side
 
+You can reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lomokwa) or at lorenzomokwa@outlook.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lomokwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lomokwa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lomokwa) 
