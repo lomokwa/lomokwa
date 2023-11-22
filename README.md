@@ -1,6 +1,4 @@
-# Yo, I'm Lorenzo!
-
-💻 Fullstack software engineer based in South Florida<br>🔭 Currently building stuff for Camlann Games<br>☕ Learning Java<br>🎮 Doing Judo, playing games, or building cars on the side
+💻 Fullstack software engineer based in South Florida<br>🔭 Building stuff for Camlann Games
 
 You can reach out to me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lomokwa)  or at lorenzomokwa@outlook.com
 
