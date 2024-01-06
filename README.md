@@ -1,5 +1,8 @@
 # Hey, I'm Lorenzo
-💻 Fullstack software engineer based in South Florida<br>
+- 💻 Fullstack software engineer based in South Florida<br>
+- 🇧🇷 Made in Brazil
+- 🌱 Currently learning Java
+ 
 
 
 You can reach out to me on  [LinkedIn](https://linkedin.com/in/lomokwa)  or at lorenzomokwa@outlook.com
