@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Dirt_background_BE1.png/revision/latest?cb=20210820093527');]{x0000}$}
-```
-
 # Hey, I'm Lorenzo
 - 💻 Fullstack software engineer based in South Florida<br>
 - 🇧🇷 Made in Brazil
@@ -25,3 +21,6 @@ You can reach out to me on  [LinkedIn](https://linkedin.com/in/lomokwa)  or at l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lomokwa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lomokwa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lomokwa) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/lomokwa/lomokwa/main/Dirt_background_JE2.jpg');]{x0000}$}
