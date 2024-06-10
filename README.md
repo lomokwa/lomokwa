@@ -16,6 +16,3 @@ You can reach out to me on  [LinkedIn](https://linkedin.com/in/lomokwa) or throu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lomokwa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/lomokwa/lomokwa/blob/main/Dirt_background_JE2.jpg?raw=true');]{x0000}$}
